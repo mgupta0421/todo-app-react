@@ -8,8 +8,9 @@ A simple and interactive ToDo application built with React.js, designed to help 
 - Persistent data storage using localStorage.  
 
 ## Tech Stack  
-- **Frontend**: React.js, CSS  
-\- **State Management**: React Hooks (useState, useEffect)  
+- **Frontend**: React.js, CSS
+- **Backend**: Node.js (optional, if using backend APIs)  
+- **State Management**: React Hooks (useState, useEffect)  
 
 ## Getting Started  
 
